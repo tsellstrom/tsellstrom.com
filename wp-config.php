@@ -25,8 +25,8 @@ if ($_SERVER['SERVER_NAME'] == 'tsellstrom.com' || 'www.tsellstrom.com') {
  	define('WP_SITEURL','https://www.tsellstrom.com/');
  	define('WP_HOME','https://www.tsellstrom.com/');
 } else if ($_SERVER['SERVER_NAME'] == 'staging.tsellstrom.com') {
-  define('WP_SITEURL','http://local.tsellstrom.com/');
- 	define('WP_HOME','http://local.tsellstrom.com/');
+  define('WP_SITEURL','http://staging.tsellstrom.com/');
+ 	define('WP_HOME','http://staging.tsellstrom.com/');
 } else {
   define('WP_SITEURL','http://local.tsellstrom/');
  	define('WP_HOME','http://local.tsellstrom/');
