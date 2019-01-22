@@ -4857,474 +4857,740 @@
 		"oAP": "/wp-content/plugins/index.php",
 		"oF": 0
 		},
-	"/wp-content/themes/index.php": {
+	"/wp-content/plugins/redirection/actions/error.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/index.php",
+		"oAP": "/wp-content/plugins/redirection/actions/error.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/404.php": {
+	"/wp-content/plugins/redirection/actions/nothing.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/404.php",
+		"oAP": "/wp-content/plugins/redirection/actions/nothing.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/6242f7d7d27041004b07e54ab81415fb4f364909/reset.scssc": {
+	"/wp-content/plugins/redirection/actions/pass.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/6242f7d7d27041004b07e54ab81415fb4f364909/reset.scssc",
+		"oAP": "/wp-content/plugins/redirection/actions/pass.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/65710ea7df40ac0fe9e3214bff5c6039b15aa093/main.scssc": {
+	"/wp-content/plugins/redirection/actions/random.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/65710ea7df40ac0fe9e3214bff5c6039b15aa093/main.scssc",
+		"oAP": "/wp-content/plugins/redirection/actions/random.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/78ee1bc3351e8c43a594e8097af30d0fb6af28fd/button.scssc": {
+	"/wp-content/plugins/redirection/actions/url.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/78ee1bc3351e8c43a594e8097af30d0fb6af28fd/button.scssc",
+		"oAP": "/wp-content/plugins/redirection/actions/url.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/78ee1bc3351e8c43a594e8097af30d0fb6af28fd/formatted-type.scssc": {
+	"/wp-content/plugins/redirection/api/api-404.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/78ee1bc3351e8c43a594e8097af30d0fb6af28fd/formatted-type.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-404.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/78ee1bc3351e8c43a594e8097af30d0fb6af28fd/root-type.scssc": {
+	"/wp-content/plugins/redirection/api/api-export.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/78ee1bc3351e8c43a594e8097af30d0fb6af28fd/root-type.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-export.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/b2f03a9c6f6eec4d9b9b6507cabd43b101b9aa42/container.scssc": {
+	"/wp-content/plugins/redirection/api/api-group.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/b2f03a9c6f6eec4d9b9b6507cabd43b101b9aa42/container.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-group.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/col.scssc": {
+	"/wp-content/plugins/redirection/api/api-import.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/col.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-import.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/functions.scssc": {
+	"/wp-content/plugins/redirection/api/api-log.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/functions.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-log.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/mixins.scssc": {
+	"/wp-content/plugins/redirection/api/api-plugin.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/mixins.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-plugin.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/variables.scssc": {
+	"/wp-content/plugins/redirection/api/api-redirect.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/.sass-cache/c3ee665270d1cab8438e3280ff28ff63effc1fec/variables.scssc",
+		"oAP": "/wp-content/plugins/redirection/api/api-redirect.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/components/_hero.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/api/api-settings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/api/api-settings.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/database-status.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/database-status.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/database-upgrader.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/database-upgrader.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/database.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/database.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/201.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/201.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/216.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/216.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/220.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/220.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/231.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/231.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/232.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/232.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/233.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/233.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/240.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/240.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/database/schema/latest.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/database/schema/latest.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/fileio/apache.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/fileio/apache.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/fileio/csv.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/fileio/csv.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/fileio/json.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/fileio/json.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/fileio/nginx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/fileio/nginx.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/fileio/rss.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/fileio/rss.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/images/donate.gif": {
+		"ft": 4194304,
+		"iS": 2923,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/images/donate.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/wp-content/plugins/redirection/images/GitHub-Mark-64px.png": {
+		"ft": 32768,
+		"iS": 2625,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/images/GitHub-Mark-64px.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/wp-content/plugins/redirection/license.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/license.txt",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/json/redirection-de_DE.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/components/_hero.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-de_DE-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/main.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom/style.css",
-		"oF": 2,
-		"oS": 0,
-		"uL": 1
-		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/_reset.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-en_AU.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/_reset.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-en_AU-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/base/_buttons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-en_CA.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/base/_buttons.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-en_CA-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/base/_fields.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-en_GB.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/base/_fields.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-en_GB-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/base/_formatted-type.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-en_NZ.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/base/_formatted-type.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-en_NZ-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/base/_images.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-es_ES.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/base/_images.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-es_ES-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/base/_root-type.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-fr_FR.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/base/_root-type.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-fr_FR-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_col.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-it_IT.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_col.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-it_IT-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_functions.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-ja.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_functions.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-ja-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_mixins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-lv.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_mixins.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-lv-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_variables.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-pt_BR.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/extensions/_variables.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-pt_BR-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/layout/_container.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-ru_RU.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/layout/_container.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-ru_RU-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/layout/_content-set.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-sv_SE.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/layout/_content-set.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-sv_SE-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/layout/_site-footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"/wp-content/plugins/redirection/locale/json/redirection-zh_TW.json": {
+		"ft": 524288,
 		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/layout/_site-footer.css",
+		"oAP": "/wp-content/plugins/redirection/locale/json/redirection-zh_TW-min.json",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oO": 0,
+		"oS": 1
 		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/layout/_site-header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/layout/_site-header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/wp-content/themes/tsellstrom-kit/_sass/site/layout/_skip-link.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/wp-content/themes/tsellstrom-kit/_sass/site/layout/_skip-link.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/wp-content/themes/tsellstrom-kit/archive.php": {
+	"/wp-content/plugins/redirection/locale/redirection-de_DE.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/archive.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-de_DE.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/comments.php": {
+	"/wp-content/plugins/redirection/locale/redirection-de_DE.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/comments.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-de_DE.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/footer.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_AU.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/footer.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_AU.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/functions.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_AU.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/functions.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_AU.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/header.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_CA.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/header.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_CA.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/inc/custom-header.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_CA.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/inc/custom-header.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_CA.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/inc/customizer.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_GB.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/inc/customizer.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_GB.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/inc/jetpack.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_GB.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/inc/jetpack.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_GB.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/inc/template-functions.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_NZ.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/inc/template-functions.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_NZ.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/inc/template-tags.php": {
+	"/wp-content/plugins/redirection/locale/redirection-en_NZ.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/inc/template-tags.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-en_NZ.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/index.php": {
+	"/wp-content/plugins/redirection/locale/redirection-es_ES.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/index.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-es_ES.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/js/customizer.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/js/customizer-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/js/navigation.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/js/navigation-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/js/skip-link-focus-fix.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/js/skip-link-focus-fix-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/languages/readme.txt": {
+	"/wp-content/plugins/redirection/locale/redirection-es_ES.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/languages/readme.txt",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-es_ES.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/languages/tsellstrom.pot": {
+	"/wp-content/plugins/redirection/locale/redirection-fr_FR.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/languages/tsellstrom.pot",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-fr_FR.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/layouts/content-sidebar.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/layouts/content-sidebar-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/wp-content/themes/tsellstrom-kit/layouts/sidebar-content.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/layouts/sidebar-content-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/wp-content/themes/tsellstrom-kit/LICENSE": {
+	"/wp-content/plugins/redirection/locale/redirection-fr_FR.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/LICENSE",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-fr_FR.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/page.php": {
+	"/wp-content/plugins/redirection/locale/redirection-it_IT.mo": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/page.php",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-it_IT.mo",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/phpcs.xml.dist": {
+	"/wp-content/plugins/redirection/locale/redirection-it_IT.po": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/phpcs.xml.dist",
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-it_IT.po",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/README.md": {
+	"/wp-content/plugins/redirection/locale/redirection-ja.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-ja.mo",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-ja.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-ja.po",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-lv.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-lv.mo",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-lv.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-lv.po",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-pt_BR.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-pt_BR.mo",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-pt_BR.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-pt_BR.po",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-ru_RU.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-ru_RU.mo",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-ru_RU.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-ru_RU.po",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-sv_SE.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-sv_SE.mo",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-sv_SE.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-sv_SE.po",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-zh_TW.mo": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-zh_TW.mo",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection-zh_TW.po": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection-zh_TW.po",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/locale/redirection.pot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/locale/redirection.pot",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/cookie.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/cookie.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/custom-filter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/custom-filter.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/http-header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/http-header.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/ip.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/ip.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/login.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/login.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/page.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/referrer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/referrer.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/server.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/server.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/url.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/url.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/user-agent.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/user-agent.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/matches/user-role.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/matches/user-role.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/action.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/action.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/file-io.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/file-io.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/fixer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/fixer.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/flusher.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/flusher.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/group.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/group.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/htaccess.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/htaccess.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/importer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/importer.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/log.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/log.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/match.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/match.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/module.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/module.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/monitor.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/monitor.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/redirect.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/redirect.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/models/request.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/models/request.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/modules/apache.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/modules/apache.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/modules/nginx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/modules/nginx.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/modules/wordpress.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/modules/wordpress.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -5333,7 +5599,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/README.html",
+		"oAP": "/wp-content/plugins/redirection/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -5342,98 +5608,94 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/readme.txt": {
+	"/wp-content/plugins/redirection/readme.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/readme.txt",
+		"oAP": "/wp-content/plugins/redirection/readme.txt",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/rtl.css": {
+	"/wp-content/plugins/redirection/redirection-admin.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-admin.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection-api.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-api.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection-cli.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-cli.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection-front.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-front.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection-settings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-settings.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection-strings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-strings.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection-version.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/redirection/redirection-version.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/redirection/redirection.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/rtl-min.css",
+		"oAP": "/wp-content/plugins/redirection/redirection-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/wp-content/themes/tsellstrom-kit/screenshot.png": {
-		"ft": 32768,
-		"iS": 264,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/screenshot.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/wp-content/themes/tsellstrom-kit/search.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/search.php",
-		"oF": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/sidebar.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/sidebar.php",
-		"oF": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/single.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/single.php",
-		"oF": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
+	"/wp-content/plugins/redirection/redirection.js": {
+		"ft": 64,
 		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/style-min.css",
+		"oAP": "/wp-content/plugins/redirection/redirection-min.js",
 		"oF": 0,
-		"oS": 3
+		"sC": 3,
+		"tS": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/style.css.map": {
+	"/wp-content/plugins/redirection/redirection.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/style.css.map",
+		"oAP": "/wp-content/plugins/redirection/redirection.php",
 		"oF": 0
 		},
-	"/wp-content/themes/tsellstrom-kit/template-parts/content-none.php": {
+	"/wp-content/themes/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/template-parts/content-none.php",
-		"oF": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/template-parts/content-page.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/template-parts/content-page.php",
-		"oF": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/template-parts/content-search.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/template-parts/content-search.php",
-		"oF": 0
-		},
-	"/wp-content/themes/tsellstrom-kit/template-parts/content.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/wp-content/themes/tsellstrom-kit/template-parts/content.php",
+		"oAP": "/wp-content/themes/index.php",
 		"oF": 0
 		},
 	"/wp-content/themes/tsellstrom/404.php": {
