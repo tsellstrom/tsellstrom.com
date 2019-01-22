@@ -46,7 +46,7 @@
 		<header class="site-header">
       <div class="container container--standard">
           <div class="row">
-            <a href="." class="logo">Jump Start Kit</a>
+            <a href="." class="logo">Auto Deploy Jump Start Kit</a>
             <nav class="site-nav">
                 <ul>
                     <li><a href=".">Menu Item</a></li>
