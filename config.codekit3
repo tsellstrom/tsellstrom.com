@@ -23,6 +23,45 @@
 		"oAP": "/.htaccess",
 		"oF": 0
 		},
+	"/git-deploy/_config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/git-deploy/_config.yml",
+		"oF": 0
+		},
+	"/git-deploy/deploy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/git-deploy/deploy.php",
+		"oF": 0
+		},
+	"/git-deploy/deployer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/git-deploy/deployer.php",
+		"oF": 0
+		},
+	"/git-deploy/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/git-deploy/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/index.php": {
 		"cB": 0,
 		"ft": 8192,
