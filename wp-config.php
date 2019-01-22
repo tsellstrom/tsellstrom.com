@@ -35,7 +35,12 @@ if ($_SERVER['SERVER_NAME'] == 'tsellstrom.com') {
  	define('WP_HOME','http://local.tsellstrom/');
 }
 
-define('DB_NAME', 'tsellstrom_wp');
+
+if ($_SERVER['SERVER_NAME'] == 'staging.tsellstrom.com') {
+  define('DB_NAME', 'tsellstrom_wp_staging');
+} else {
+  define('DB_NAME', 'tsellstrom_wp');
+}
 
 /** MySQL database username */
 define('DB_USER', 'root');
