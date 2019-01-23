@@ -1,4 +1,4 @@
-<?php
+<?php /*
 define("TOKEN", "secret-token");                                          // The secret token to add as a GitHub or GitLab secret, or otherwise as https://www.example.com/?token=secret-token
 define("REMOTE_REPOSITORY", "git@github.com:tsellstrom/tsellstrom.com");  // The SSH URL to your repository
 if ($_SERVER['SERVER_NAME'] == 'tsellstrom.com') {
@@ -16,3 +16,23 @@ define("GIT", "/usr/bin/git");                                            // The
 define("AFTER_PULL", "");                                                 // A command to execute after successfully pulling
 
 require_once("deployer.php");
+*/ ?>
+
+
+
+
+<?php
+
+$content = file_get_contents("php://input");
+$json    = json_decode($content, true);
+
+
+
+
+
+// Use in the "Post-Receive URLs" section of your GitHub repo.
+if ( $json->ref == "refs/heads/staging" ) {
+  shell_exec( 'cd /var/www/ts-staging/ && git reset --hard HEAD && git pull' );
+} else {
+  shell_exec( 'cd /var/www/tsellstrom.com/ && git reset --hard HEAD && git pull' );
+}

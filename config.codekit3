@@ -23,25 +23,11 @@
 		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"/git-deploy/_config.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/git-deploy/_config.yml",
-		"oF": 0
-		},
 	"/git-deploy/deploy.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/git-deploy/deploy.php",
-		"oF": 0
-		},
-	"/git-deploy/deployer.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/git-deploy/deployer.php",
 		"oF": 0
 		},
 	"/git-deploy/README.md": {
@@ -6103,6 +6089,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/wp-content/themes/tsellstrom-kit/inc/template-tags.php",
+		"oF": 0
+		},
+	"/wp-content/themes/tsellstrom-kit/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/wp-content/themes/tsellstrom-kit/index.php",
 		"oF": 0
 		},
 	"/wp-content/themes/tsellstrom-kit/js/customizer.js": {
